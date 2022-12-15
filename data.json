@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "fruta": "Frutillas",
+    "precio": 200,
+    "imagen": "https://img.freepik.com/vector-gratis/mano-dibujada-fresa-fruta_53876-2981.jpg?auto=format&h=200"
+  },
+  {
+    "id": 2,
+    "fruta": "Bananas",
+    "precio": 100,
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi0UXG1rWqBySll9WC5XiwocagCKl_ikJCQZdWx6s3R07MkcxaOxVkcIRqNweGlSUBBjg&usqp=CAU"
+  },
+  {
+    "id": 3,
+    "fruta": "Sandia",
+    "precio": 150,
+    "imagen": "https://static.vecteezy.com/system/resources/thumbnails/001/932/203/small/fresh-watermelon-fruit-healthy-food-free-vector.jpg"
+  },
+  {
+    "id": 4,
+    "fruta": "Cerezas",
+    "precio": 175,
+    "imagen": "https://img.freepik.com/vector-premium/cerezas-vectoriales-simples-rojas-ilustracion-bayas-dulces-maduras-alimentos-saludables-organicos-simbolo-temporada-cosecha_570429-9221.jpg?auto=format&h=200"
+  },
+  {
+    "id": 5,
+    "fruta": "Naranjas",
+    "precio": 75,
+    "imagen": "https://www.agroboca.com/uploads/producers/368/p/-NARANJAS-1.jpg"
+  },
+  {
+    "id": 6,
+    "fruta": "Kiwi",
+    "precio": 250,
+    "imagen": "https://nyc3.digitaloceanspaces.com/peoplespharmacy/Kiwi-fruit-sliced300x-200x200.jpg"
+  },
+  {
+    "id": 7,
+    "fruta": "Peras",
+    "precio": 175,
+    "imagen": "https://www.cordiez.com.ar/arquivos/ids/161210-200-200/Pera-Williams-Especial-x-Kg-1-5719.jpg?v=637462386094170000"
+  },
+  {
+    "id": 8,
+    "fruta": "Duraznos",
+    "precio": 215,
+    "imagen": "data:image/jpeg;base64,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"
+  },
+  {
+    "id": 9,
+    "fruta": "Ananas",
+    "precio": 240,
+    "imagen": "https://www.frenchclick.co.uk/images/PRODUCT/medium/6844.jpg"
+  },
+  {
+    "id": 10,
+    "fruta": "Uvas",
+    "precio": 180,
+    "imagen": "https://www.fruitbull.com/images/productos/uva.jpg"
+  }
+]

@@ -1,0 +1,22 @@
+body {
+  background-color: green;
+}
+.header {
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+
+.modal-body li {
+  display: flex;
+  align-items: center;
+}
+
+
+h1{
+  color: aliceblue;
+}
+
+footer{
+  color: aliceblue;
+  align-items: center;
+}
